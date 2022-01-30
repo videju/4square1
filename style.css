@@ -132,7 +132,6 @@
         }
         .show{
         right: 0; 
-        height:100vh;
         }
         
     }
@@ -260,7 +259,7 @@
         }
         
     }
-    @media screen and (max-width: 1080px) {
+    @media screen and (max-width: 768px) {
         header{
             position:fixed ;
             height:10vh;
