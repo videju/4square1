@@ -278,9 +278,29 @@ background: #40d3dc;
 }
 @media screen and (max-width: 768px) {
  header{
+     width:768px;
      position: fixed
      
  }
 
     
+    }
+    @media screen and (max-width: 1080px) {
+        header{
+            width:1080px;
+            position: sticky;
+    top:0;
+    background-color:#222831;
+        }
+        #home_section{
+           width: 768px;
+            align-items: center;
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        
+        }
+
     }
