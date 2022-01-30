@@ -159,7 +159,6 @@
         padding: 0;
         height: 100vh;
         display: flex;
-        margin-right: 20vh;
 
 
     }
@@ -253,12 +252,10 @@
     @media screen and (max-width: 768px) {
         header{
             position: fixed;
-            height: 0vh;
         }
     }
     @media screen and (max-width:1080px) {
         header{
             position:fixed;
-            height: 20vh;
         }
     }
