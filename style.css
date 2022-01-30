@@ -137,7 +137,7 @@
     }
 
     header{
-     height: 20vh;
+     height: 10vh;
         position: sticky;
         top:0;
         background-color:#222831;
@@ -251,13 +251,11 @@
     
     @media screen and (max-width: 768px) {
         header{
-            position:fixed ;
             height: 10vh;
         }
     }
     @media screen and (max-width:1080px) {
         header{
-            position:fixed ;
             height: 10vh;
         }
     }
