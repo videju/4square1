@@ -253,12 +253,12 @@
     @media screen and (max-width: 768px) {
         header{
             position: fixed;
-            height: 10vh;
+
         }
     }
     @media screen and (max-width:1080px) {
         header{
-            height: 20vh;
+           
             position: fixed;
         }
     }
