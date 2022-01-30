@@ -290,13 +290,13 @@ background: #40d3dc;
             width: 900px;
         }
         header{
-            width:1080px;
+            width:900px;
             position: sticky;
     top:0;
     background-color:#222831;
         }
         #home_section{
-           width: 1080px;
+           width: 900px;
             align-items: center;
             justify-content: center;
             align-items: center;
