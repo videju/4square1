@@ -250,8 +250,17 @@
     }
     
     @media screen and (max-width: 768px) {
+        #home_section{
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            }
         header{
             position: fixed;
+            
         }
     }
     @media screen and (max-width:1080px) {
