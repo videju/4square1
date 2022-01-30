@@ -249,3 +249,11 @@
         background: #40d3dc;
     }
     
+    @media screen and (max-width: 768px) {
+        header{
+            position:fixed ;
+        }
+        body{
+            width:768px;
+        }
+    }
