@@ -137,7 +137,7 @@
     }
 
     header{
-    
+     height: 20vh;
         position: sticky;
         top:0;
         background-color:#222831;
