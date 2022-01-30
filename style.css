@@ -276,15 +276,9 @@ background: #40d3dc;
         width:500px;
     }
 }
-@media screen and (max-width: 768px) {
- header{
-     width:768px;
-     position: fixed
-     
- }
 
     
-    }
+
     @media screen and (max-width: 1080px) {
         .slider{
             width: 900px;
