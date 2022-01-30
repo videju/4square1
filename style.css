@@ -252,8 +252,10 @@
     @media screen and (max-width: 768px) {
         header{
             position:fixed ;
+            height:20vh;
         }
         body{
             width:768px;
         }
+        
     }
