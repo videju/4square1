@@ -130,7 +130,7 @@
         .nav__item{
             margin: 2rem 0;
         }
-        .navMenu.show{
+        .show{
         right: 0; 
         height:100vh;
         }
@@ -256,14 +256,14 @@
             height:20vh;
         }
         body{
-            width: 500px;
+            width:768px;
         }
         
     }
     @media screen and (max-width: 1080px) {
         header{
             position:fixed ;
-            height:40vh;
+            height:10vh;
         }
         body{
             width:768px;
