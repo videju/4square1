@@ -267,6 +267,7 @@
     @media screen and (max-width:1080px) {
         header{
             height: 20vh;
+            width:768px;
         }
         #home_section{
             justify-content: center;
@@ -274,6 +275,7 @@
             margin: 0;
             padding: 0;
             height: 100vh;
+            width:100vh;
             display: flex;
     
     
