@@ -259,3 +259,13 @@
         }
         
     }
+    @media screen and (max-width: 1080px) {
+        header{
+            position:fixed ;
+            height:40vh;
+        }
+        body{
+            width:768px;
+        }
+        
+    }
