@@ -115,7 +115,7 @@
             right: -100%;
             background-color: #222831;
             color:#eeee;
-            width: 10px;
+            width:60%;
             height: 100vh;
             padding: 24px 0;
             z-index: 100000;
@@ -159,6 +159,7 @@
         padding: 0;
         height: 100vh;
         display: flex;
+        margin-right: 20vh;
 
 
     }
@@ -167,13 +168,13 @@
         background-color: #23e3c9;
     }
     .slider{
-        width: 1000px;
+        width: 800px;
         width: 1000;
         border-radius: 10px;
         overflow: hidden;
     }
     .slides{
-        width: 100%;
+        width: 500%;
         height: 500px;
         display: flex;
     }
@@ -249,30 +250,3 @@
         background: #40d3dc;
     }
     
-    @media screen and (max-width: 768px) {
-        #home_section{
-            justify-content: center;
-            align-items: center;
-            margin: 0;
-            padding: 0;
-            height: 100vh;
-            display: flex;
-            }
-        header{
-            position: fixed;
-            
-        }
-    }
-    @media screen and (max-width:1080px) {
-        #home_section{
-        justify-content: center;
-        align-items: center;
-        margin: 0;
-        padding: 0;
-        height: 100vh;
-        display: flex;
-        }
-        header{
-            position:fixed;
-        }
-    }
