@@ -175,7 +175,7 @@
         align-items: center;
     }
     .slides{
-        width: 1000%;
+        width: 500%;
         height: 500px;
         display: flex;
     }
@@ -188,8 +188,8 @@
     }
     .slide img {
         align-items: center;
-        justify-content: center;
-        width: 100%;
+        justify-content:center;
+        width: 1000px;
         height:500px;
     }
     /* css for manual navigation */
@@ -273,6 +273,7 @@
         align-items: center;
         margin: 0;
         padding: 0;
+        height: 100vh;
         display: flex;
         }
        
