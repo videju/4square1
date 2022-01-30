@@ -130,7 +130,7 @@
         .nav__item{
             margin: 2rem 0;
         }
-        .show{
+        .navMenu.show{
         right: 0; 
         height:100vh;
         }
