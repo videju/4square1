@@ -248,9 +248,22 @@ background: #40d3dc;
 #radio3:checked ~ .navigation-auto .auto-btn3{
     background: #40d3dc;
 }
+@media screen and (max-width: 1000px) {
+    #home_section{
+       width: 1000px;
+        align-items: center;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+        margin-left: 100px;
+        padding: 0;
+        height: 100vh;
+        display: flex;
+    }
+}
 @media screen and (max-width: 768px) {
     #home_section{
-      width: 768px;
+       width: 500;
         align-items: center;
         justify-content: center;
         align-items: center;
