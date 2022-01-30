@@ -171,8 +171,6 @@
         width: 1000;
         border-radius: 10px;
         overflow: hidden;
-        justify-content: center;
-        align-items: center;
     }
     .slides{
         width: 500%;
@@ -187,8 +185,6 @@
         transition: 2s;
     }
     .slide img {
-        align-items: center;
-        justify-content:center;
         width: 1000px;
         height:500px;
     }
@@ -262,10 +258,10 @@
             height: 100vh;
             display: flex;
             }
- 
-          
+        header{
+            position: fixed;
             
-        
+        }
     }
     @media screen and (max-width:1080px) {
         #home_section{
@@ -276,5 +272,7 @@
         height: 100vh;
         display: flex;
         }
-       
+        header{
+            position:fixed;
+        }
     }
