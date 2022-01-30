@@ -187,6 +187,8 @@
         transition: 2s;
     }
     .slide img {
+        align-items: center;
+        justify-content: center;
         width: 1000px;
         height:500px;
     }
