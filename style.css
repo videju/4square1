@@ -258,10 +258,10 @@
             height: 100vh;
             display: flex;
             }
-        header{
-            position: fixed;
+ 
+          
             
-        }
+        
     }
     @media screen and (max-width:1080px) {
         #home_section{
@@ -272,7 +272,5 @@
         height: 100vh;
         display: flex;
         }
-        header{
-            position:fixed;
-        }
+       
     }
