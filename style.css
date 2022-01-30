@@ -263,7 +263,7 @@ background: #40d3dc;
 }
 @media screen and (max-width: 768px) {
     #home_section{
-       width: 500;
+       width: 500px;
         align-items: center;
         justify-content: center;
         align-items: center;
@@ -273,3 +273,34 @@ background: #40d3dc;
         display: flex;
     }
 }
+@media screen and (max-width: 768px) {
+ header{
+     position: fixed
+     
+ }
+
+    }
+    @media screen and (max-width: 1453px) {
+        #home_section{
+           width: 768px;
+            align-items: center;
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+            margin-left: 100px;
+            padding: 0;
+            display: flex;
+        }
+    }
+    @media screen and (max-width: 1155px) {
+        #home_section{
+           width: 768px;
+            align-items: center;
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+            margin-left: 100px;
+            padding: 0;
+            display: flex;
+        }
+    }
