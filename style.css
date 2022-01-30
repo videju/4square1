@@ -258,6 +258,6 @@
     @media screen and (max-width:1080px) {
         header{
             position:fixed ;
-            height: 20vh;
+            height: 5vh;
         }
     }
