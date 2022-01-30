@@ -249,17 +249,3 @@
         background: #40d3dc;
     }
     
-    @media screen and (max-width: 768px) {
-        header{
-            position:fixed ;
-        }
-        body{
-            width:768px;
-        }
-    }
-        @media screen and (max-width: 1080px) {
-            header{
-                position:fixed ;
-                height:10px;
-            }
-        }
