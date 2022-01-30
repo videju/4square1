@@ -137,6 +137,7 @@
     }
 
     header{
+     height: 10vh;
         position: sticky;
         top:0;
         background-color:#222831;
@@ -158,6 +159,7 @@
         padding: 0;
         height: 100vh;
         display: flex;
+        margin-right: 20vh;
 
 
     }
@@ -248,4 +250,15 @@
         background: #40d3dc;
     }
     
-   
+    @media screen and (max-width: 768px) {
+        header{
+            position: fixed;
+            height: 0vh;
+        }
+    }
+    @media screen and (max-width:1080px) {
+        header{
+            position:fixed;
+            height: 20vh;
+        }
+    }
