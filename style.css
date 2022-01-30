@@ -159,7 +159,6 @@
         padding: 0;
         height: 100vh;
         display: flex;
-        margin-right: 20vh;
 
 
     }
@@ -254,9 +253,29 @@
         header{
             height: 20vh;
         }
+        #home_section{
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+    
+    
+        }
     }
     @media screen and (max-width:1080px) {
         header{
             height: 20vh;
+        }
+        #home_section{
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+    
+    
         }
     }
