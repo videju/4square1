@@ -273,7 +273,6 @@
     }
     @media (max-width: 1186px) {
         #home_section .slides .slide img,.slider{
-            margin-left: 100px;;
             height: 400px;
             width:1000px;
         }
