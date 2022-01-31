@@ -281,7 +281,7 @@
     @media (max-width: 732px) {
         #home_section img,.slider{
             height: 300px;
-            width: 650px;
+            width:1000px;
         }
     }
     /* part */
