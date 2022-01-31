@@ -273,7 +273,7 @@
         }
     }
     @media (max-width: 565px) {
-        #home_section img,.slider{
+        #home_section img,.slider,.slides{
             height: 300px;
             width: 400px;
         }
