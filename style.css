@@ -280,7 +280,6 @@
     }
     @media (max-width: 732px) {
         #home_section img,.slider{
-            margin-left: 1000px;
             height: 300px;
             width: 650px;
         }
