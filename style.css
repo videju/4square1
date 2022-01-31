@@ -251,18 +251,7 @@
         background: #40d3dc;
     }
     /* part */
-    @media screen and (max-width: 768px) {
-        header{
-            position: fixed;
 
-        }
-    }
-    @media screen and (max-width:1080px) {
-        header{
-           
-            position: fixed;
-        }
-    }
     /* //part */
     @media (max-width: 1403px) {
         #home_section .slides .slide img,.slider{
@@ -281,6 +270,12 @@
         #home_section img,.slider{
             height: 300px;
             width:1000px;
+        }
+    }
+    @media (max-width: 565px) {
+        #home_section img,.slider{
+            height: 300px;
+            width: 400px;
         }
     }
     /* part */
