@@ -267,22 +267,22 @@
     @media (max-width: 1403px) {
         #home_section .slides .slide img,.slider{
             margin-left: 100px;;
-            height: 768px;
-            width: 768px;
+            height: 400px;
+            width: 1200px;
         }
     }
     @media (max-width: 1186px) {
         #home_section .slides .slide img,.slider{
             margin-left: 100px;;
-            height: 500px;
-            width: 500px;
+            height: 400px;
+            width:1000px;
         }
     }
     @media (max-width: 732px) {
-        #home_section .slides .slide img,.slider{
-            margin-left: 100px;;
-            height: 500px;
-            width:768px;
+        #home_section img,.slider{
+            margin-left: 1000px;
+            height: 300px;
+            width: 650px;
         }
     }
     /* part */
